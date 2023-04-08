@@ -1,0 +1,6 @@
+class Add{ 
+public static void main(String[]args){  
+int a=10;int b=3;
+System.out.println("sum is" 10+3); 
+} 
+}
