@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "add",
+      "request": "launch",
+      "mainClass": "add",
+      "projectName": "java examples_1394442a"
+    },
+    {
+      "type": "java",
       "name": "FactorialExample",
       "request": "launch",
       "mainClass": "FactorialExample",
